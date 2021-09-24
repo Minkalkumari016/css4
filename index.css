@@ -1,0 +1,168 @@
+.body{
+    background-color: burlywood;
+}
+
+.first{
+    background: linear-gradient(to right, red, green, yellow);
+    height: 30px;
+}
+
+.one{
+    text-decoration: underline;
+    text-align: center;
+}
+
+.second{
+    background-color: cadetblue;
+    border: 7px red solid;
+    text-align: center;
+    height: 50px;
+    width: 650px;
+    margin-left: 440px;
+    margin-top: 30px;
+    border-radius: 15px;
+}
+
+.two{
+    margin-top: -3px;
+    margin-left: -45px;
+    text-align: center;
+}
+
+.third{
+    border: 5px solid green;
+    background-color: lightcyan;
+    border-radius: 25px;
+    height: 227px;
+    margin-top: 30px;
+}
+
+.three{
+    border: maroon 5px solid;
+    background-color: rgb(4, 239, 247);
+    border-radius: 2px;
+    height: 105px;
+    width: 390px;
+    text-align: center;
+    margin-left: 70px;
+    margin-top: -1px;
+    display: inline-block;
+    border-radius: 15px;
+}
+
+.four{
+    border: maroon 5px solid;
+    background-color: rgb(11, 242, 250);
+    border-radius: 2px;
+    height: 105px;
+    width: 390px;
+    text-align: center;
+    margin-left: 100px;
+    margin-top: 0px;
+    border-radius: 15px;
+    margin-left: 543px;
+}
+
+.fourth{
+    background: linear-gradient( to right, red, yellow, red);
+    height: 35px;
+}
+
+.five{
+    text-decoration: underline;
+    text-align: center;
+    text-decoration-color: red;
+
+}
+
+.fifth{
+    background: radial-gradient(ellipse at center, blue, green);
+    height: 250px;
+    border: maroon solid 2px;
+    margin-top: 25px;
+}
+
+.six{
+    border: red 2px solid;
+    background-color: yellow;
+    text-decoration: underline;
+    text-decoration-color: red;
+    border-radius: 2px;
+    height: 150px;
+    width: 250px;
+    text-align: center;
+    margin-left: 100px;
+    margin-top: 50px;
+    display: inline-block;
+    border-radius: 15px;
+    line-height: 37px;
+}
+
+.sixth{
+    border: 2px solid green;
+    height: 355px;
+    margin-top: 15px; 
+    color: white; 
+}
+
+.seven{
+    background-color: crimson;
+    height: 35px;
+    text-align: center;
+    margin-top: -20px;
+}
+
+.eight{
+    background-color: green;
+    height: 85px;
+    width: 420px;
+    margin-top: 13px;
+    text-align: center;
+    display: inline-block;
+}
+
+.nine{
+    background-color: blueviolet;
+    height: 85px;
+    width: 420px;
+    margin-top: 10px;
+    margin-left: 30px;
+    display: inline-block;
+}
+
+.ten{
+    background-color: blue;
+    height: 85px;
+    width: 420px;
+    margin-top: 5px;
+    margin-left: 30px;
+    display: inline-block;
+}
+
+.eleven{
+    background-color: rgba(0, 0, 0, 0.685);
+    height: 230px;
+    width: 125px;
+    margin-left: 1360px;
+    margin-top: -100px;
+    display: inline-block;
+}
+
+hr{
+    background-color: maroon;
+    border: 2px solid;
+}
+.twelve{
+    background-color: orange;
+    height: 130px;
+    width: 1330px;
+    margin-top: -140px;
+    display: block;
+}
+
+.thriteen{
+    background-color: skyblue;
+    height: 35px;
+    margin-top: 5px;
+    text-align: center;
+}
