@@ -98,71 +98,58 @@
     line-height: 37px;
 }
 
+
+.C{
+    margin: 10px;
+    border: 2px solid black;
+    padding: 10px;
+}
 .sixth{
-    border: 2px solid green;
-    height: 355px;
-    margin-top: 15px; 
-    color: white; 
-}
+    background: lightblue;
+    text-align: center;
+    color: white;
+    margin: 10px;
+    display: grid;
+   grid-template-columns: repeat(2, 1fr 1fr);
+   grid-template-rows: 60px 130px 160px 60px;
+   grid-template-columns: 449px 449px 449px 150px;
 
+}
 .seven{
-    background-color: crimson;
-    height: 35px;
-    text-align: center;
-    margin-top: -20px;
+    background: crimson;
+    grid-column: 1/5;
+    
 }
-
 .eight{
-    background-color: green;
-    height: 85px;
-    width: 420px;
-    margin-top: 13px;
-    text-align: center;
-    display: inline-block;
+    background: green;
+    font-size: 40px;
 }
 
 .nine{
-    background-color: blueviolet;
-    height: 85px;
-    width: 420px;
-    margin-top: 10px;
-    margin-left: 30px;
-    display: inline-block;
+    background: blueviolet;
+    font-size: 35px;
+    text-align: left;
 }
-
 .ten{
-    background-color: blue;
-    height: 85px;
-    width: 420px;
-    margin-top: 5px;
-    margin-left: 30px;
-    display: inline-block;
+    background: blue;
+    text-align: left;
+    font-size: 28px;
 }
-
 .eleven{
-    background-color: rgba(0, 0, 0, 0.685);
-    height: 230px;
-    width: 125px;
-    margin-left: 1360px;
-    margin-top: -100px;
-    display: inline-block;
-}
-
-hr{
-    background-color: maroon;
-    border: 2px solid;
+    background: black;
+    grid-row: 2/4;
+    grid-column: 4/5;
+    text-align: left;
 }
 .twelve{
-    background-color: orange;
-    height: 130px;
-    width: 1330px;
-    margin-top: -140px;
-    display: block;
+    background: orange;
+    grid-column: 1/4;
+    text-align: left;
+}
+.thirteen{
+    background: cyan;
+    grid-column: 1/5;
+    font-size: 22px;
+    font-weight: bold;
 }
 
-.thriteen{
-    background-color: skyblue;
-    height: 35px;
-    margin-top: 5px;
-    text-align: center;
-}
